@@ -150,5 +150,5 @@ have = if_in_dict(sun,all)
 if have:
     print("存在")
 else:
-    print("不存在")
+    print("不存在111")
 print(type(False))
